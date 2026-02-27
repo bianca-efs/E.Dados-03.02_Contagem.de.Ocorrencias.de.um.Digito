@@ -1,6 +1,7 @@
 Recursividade em Java – Contagem de Ocorrências de um Dígito em um Número Inteiro
 
 Enunciado
+
 Criar uma aplicação em Java com uma função recursiva que receba dois números inteiros como parâmetros:
 * Um número inteiro entre **10 e 999999**
 * Um segundo número inteiro entre **0 e 9** (um dígito)
@@ -12,10 +13,12 @@ Exemplos:
 
 * 1º Número = 523578
   2º Número = 5
+  
   Retorno esperado: aparece 2 vezes
 
 * 1º Número = 836363
   2º Número = 3
+  
   Retorno esperado: aparece 3 vezes
 
 A validação dos valores de entrada deve ser realizada fora da função recursiva.
